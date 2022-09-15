@@ -62,10 +62,15 @@ export default {
 .passDiv{
   width: 80%;
   text-align: center;
-  
 }
-div.passDiv{
+@media screen and (min-width: 900px) {
+  .passDiv{
+    width: 40%;
+  }
+}
+  
 
+div.passDiv{
   word-wrap:break-word ;
 }
 
