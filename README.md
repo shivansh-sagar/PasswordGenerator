@@ -1,4 +1,16 @@
-# password_generator
+
+# Password Generator
+
+Vue.js based intelligent Password Generator
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/shivansh-sagar/PasswordGenerator/blob/main/1.PNG?raw=true)
+
+![App Screenshot](https://github.com/shivansh-sagar/PasswordGenerator/blob/main/2.PNG?raw=true)
+
+
 
 ## Project setup
 ```
