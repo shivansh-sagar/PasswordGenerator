@@ -3,6 +3,8 @@
 
 Vue.js based intelligent Password Generator
 
+## Check it out
+https://passworator.netlify.app/
 
 ## Screenshots
 
