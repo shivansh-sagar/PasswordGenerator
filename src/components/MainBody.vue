@@ -39,7 +39,7 @@ export default {
   methods: {
     generate() {
       if (this.userInput > 60) {
-        window.alert("Password length should be less than 20");
+        window.alert("Password length should be less than 60");
         this.userInput="";
       }
       this.pwd = "";
